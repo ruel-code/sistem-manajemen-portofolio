@@ -70,4 +70,4 @@ Gunakan akun berikut untuk mencoba prototype:
 
 ---
 
-Developed by **Antigravity AI**
+
